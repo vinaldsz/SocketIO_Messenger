@@ -47,6 +47,11 @@ This project demonstrates the use of **Socket.IO** for real-time communication i
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
+## Creative Addition
+
+- Allowing multiple clients to communicate with each other.
+- The message sent by the user will be on the right hand side and message sent by other users on the left side.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
