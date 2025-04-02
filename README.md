@@ -14,7 +14,7 @@ This project demonstrates the use of **Socket.IO** for real-time communication i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/socketIO_Hw4.git
+   git clone https://github.com/vinaldsz/SocketIO_Messenger.git
    ```
 2. Navigate to the project directory:
    ```bash
